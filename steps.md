@@ -2,7 +2,7 @@
 Come generare una password con JS riprendendo le informazioni dell'utente. (Attenzione, metodo poco sicuro)
 
 
-- Dichiaro una variabile assoluta co il numero 21 che verrà aggiunto alla fine delle password generata
+- Dichiaro una variabile assoluta con il numero 21 che verrà aggiunto alla fine delle password generata
     - 21 sarà un numero e non una stringa
 - Controllo che il mio file JS sia correttamente collegato al DOM
 - Interrogo il nome utente 
